@@ -1,0 +1,28 @@
+<form method="post" role="form" class="php-email-form" (submit)="sendEmail()" [formGroup]="formContact">
+    <div class="row">
+      <div class="col-md-6 mb-3">
+        <div class="form-group">
+          <input type="text" name="nombre" class="form-control form-control-lg form-control-a" placeholder="Escriba su nombre" required id="nombre" formControlName="nombre">
+        </div>
+      </div>
+      <div class="col-md-6 mb-3">
+        <div class="form-group">
+          <input name="email" type="email" class="form-control form-control-lg form-control-a" placeholder="Escriba su email" required id="email" formControlName="email">
+        </div>
+      </div>
+      <div class="col-md-12 mb-3">
+        <div class="form-group">
+          <input type="text" name="asunto" class="form-control form-control-lg form-control-a" placeholder="Escriba el asunto" required formControlName="asunto" id="asunto">
+        </div>
+      </div>
+      <div class="col-md-12">
+        <div class="form-group">
+          <textarea name="descripcionConsulta" class="form-control" name="message" cols="45" rows="8" placeholder="Escriba su el detalle de su consulta" required id="descripcionConsulta" formControlName="descripcionConsulta"></textarea>
+        </div>
+      </div>
+
+      <div class="col-md-12 text-center">
+        <button type="submit" class="btn btn-a" (click)="sendEmail()"><i class="bi bi-send-fill mr-2"></i> Enviar consulta</button>
+      </div>
+    </div>
+  </form>

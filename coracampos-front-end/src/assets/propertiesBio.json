@@ -1,0 +1,345 @@
+[
+  {
+    "_id": 1786,
+    "area": "25 has",
+    "super": "25 has",
+    "title": "CERRO CORÁ, MNES",
+    "price": 90000,
+    "location": "Cerro Corá, Provincia de Misiones, República de Argentina",
+    "page": 1,
+    "desc": "La chacra está en una ubicación estratégica dentro del circuito del parque temático de la Cruz de Santa Ana, cuenta con una muy buena vegetación de árboles (árboles de estación, árboles autoctonos, frutales cítricos y los propios de la selva misionera) junto a senderos parquizados. Ideal para el emprendimiento turístico ya que contiene áreas para construcción de cabañas ya limpios y en constante mantenimiento.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/1/I.jpeg",
+      "./../../../../assets/biodiversity/1/II.jpeg",
+      "./../../../../assets/biodiversity/1/III.jpeg",
+      "./../../../../assets/biodiversity/1/IV.jpeg",
+      "./../../../../assets/biodiversity/1/V.jpeg",
+      "./../../../../assets/biodiversity/1/VI.jpeg"
+    ]
+  },
+  {
+    "_id": 1310,
+    "area": "29 has",
+    "super": "29 has",
+    "title": "GOBERNADOR ROCA, MISIONES",
+    "price": 60000,
+    "location": "Gobernador Roca, Provincia de Misiones, República de Argentina",
+    "page": 1,
+    "desc": "La misma esta ubicada a 500 metros de la Ruta. Cuenta con 4 has de Yerba Mate en producción y 15 has de monte nativo.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/2/I.jpg",
+      "./../../../../assets/biodiversity/2/II.jpg",
+      "./../../../../assets/biodiversity/2/III.jpg",
+      "./../../../../assets/biodiversity/2/IV.jpg",
+      "./../../../../assets/biodiversity/2/V.jpg",
+      "./../../../../assets/biodiversity/2/VI.jpg"
+    ]
+  },
+  {
+    "_id": 999,
+    "area": "478 has",
+    "super": "478 has",
+    "title": "VIRASORO, CORRIENTES",
+    "price": 2000000,
+    "location": "Virasoro, Provincia de Corrientes, República de Argentina",
+    "page": 1,
+    "desc": "Terreno en el que se puede plantar, forestación, yerba, arroz, soja. Pegado al emprendimiento de arándanos.Buena disponibilidad de Agua. Alambrado perimetral y división de 6 potreros. Actualmente trabajando con ganadería y un yerbal de 25 hectáreas. Tiene casco y corrales. A pocos KM de cruce ruta 120 y ruta nacional 14",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/3/I.jpg",
+      "./../../../../assets/biodiversity/3/II.jpg",
+      "./../../../../assets/biodiversity/3/III.jpg",
+      "./../../../../assets/biodiversity/3/IV.jpg",
+      "./../../../../assets/biodiversity/3/V.jpg",
+      "./../../../../assets/biodiversity/3/VI.jpg"
+    ]
+  },
+  {
+    "_id": 1019,
+    "beds": 8,
+    "baths": 7,
+    "title": "EL DORADO, MISIONES",
+    "area": "400 m²",
+    "super": "21 has",
+    "ambientes": 0,
+    "location": "El Dorado, Provincia de Misiones, República de Argentina",
+    "price": 300000,
+    "page": 1,
+    "desc": "Chacra de 21 hectáreas con un complejo de cabañas. Construido sobre 1 hectárea, cuenta con 4 cabañas, 1 restaurante, 1 piscina y 1 casa del cuidador, y una perforación de mas de 100 metros. Todo sobre la ruta Nacional 12 a 70 Km de Iguazú. Resto de la chacra tiene 6 ha de yerba nueva en producción. y monte nativo con arroyo",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/4/I.jpg",
+      "./../../../../assets/biodiversity/4/II.jpg",
+      "./../../../../assets/biodiversity/4/III.jpg",
+      "./../../../../assets/biodiversity/4/IV.jpg",
+      "./../../../../assets/biodiversity/4/V.jpg"
+    ]
+  },
+  {
+    "_id": 1377,
+    "title": "CAMPO RAMÓN, MISIONES",
+    "area": "25 has",
+    "super": "25 has",
+    "price": 11350,
+    "location": "Villa Bonita, Provincia de Misiones, República de Argentina",
+    "page": 1,
+    "desc": "El campo está ubicado a 12km de la ruta con acceso terrado. Cuenta con 7 has de Yerba Mate en producción, 6 has de pino y 7 has de Paraiso y de Ubeña.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/5/I.jpeg",
+      "./../../../../assets/biodiversity/5/II.jpeg",
+      "./../../../../assets/biodiversity/5/III.jpeg",
+      "./../../../../assets/biodiversity/5/IV.jpeg",
+      "./../../../../assets/biodiversity/5/V.jpeg",
+      "./../../../../assets/biodiversity/5/VI.jpeg"
+    ]
+  },
+  {
+    "_id": 1387,
+    "title": "CHACRA SAN JOSÉ, MISIONES",
+    "area": "136 has",
+    "super": "136 has",
+    "location": "San Jose, Provincia de Misiones, República de Argentina",
+    "price": 330000,
+    "page": 1,
+    "desc": "Campo con 136 hectáreas a Tranquera cerrada en San José, Misiones. Cuenta con 9 has de yerba mate, 5 has de Pino,40 has de monte nativo, un arroyo,3 piquetes para posturas,70 Cabezas de animales vacunos, corral y brete (construcción nueva),1 tractor de marca Fiat modelo 400,1 Acoplado de 2 ejes,2 Arados de disco,2 subsolador,1 Rastra,1 casa de madera y 1 de material",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/6/I.jpeg",
+      "./../../../../assets/biodiversity/6/II.jpeg",
+      "./../../../../assets/biodiversity/6/III.jpeg",
+      "./../../../../assets/biodiversity/6/IV.jpeg",
+      "./../../../../assets/biodiversity/6/V.jpeg",
+      "./../../../../assets/biodiversity/6/VI.jpeg",
+      "./../../../../assets/biodiversity/6/VII.jpeg",
+      "./../../../../assets/biodiversity/6/VII.jpeg"
+    ]
+  },
+
+
+  {
+    "_id": 1345,
+    "title": "Finca En Valle De Uco Mendoza",
+    "area": "136 has",
+    "super": "136 has",
+    "location": "Ruta 89 Valle De Uco Mendoza, Tupungato, Tupungato, Mendoza",
+    "price": 103.000,
+    "page": 1,
+    "desc": "Se Vende Viñedo funcionando con 298 ha de Viñedos de direrentes tipos.Todos pies de origen frances. en producción.3 pozos perforados. intalaciones completas. Casa principal, Maquinaria, cosechadora. Todo funcionando. ",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/7/I.jpg",
+      "./../../../../assets/biodiversity/7/II.jpg",
+      "./../../../../assets/biodiversity/7/III.jpg",
+      "./../../../../assets/biodiversity/7/IV.jpg",
+      "./../../../../assets/biodiversity/7/V.jpg",
+      "./../../../../assets/biodiversity/7/VI.jpg",
+      "./../../../../assets/biodiversity/7/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1367,
+    "title": "CHACRA SAN JOSÉ, MISIONES",
+    "area": "136 has",
+    "super": "136 has",
+    "location": "San Jose, Provincia de Misiones, República de Argentina",
+    "price": 330000,
+    "page": 1,
+    "desc": "Campo con 136 hectáreas a Tranquera cerrada en San José, Misiones. Cuenta con 9 has de yerba mate, 5 has de Pino,40 has de monte nativo, un arroyo,3 piquetes para posturas,70 Cabezas de animales vacunos, corral y brete (construcción nueva),1 tractor de marca Fiat modelo 400,1 Acoplado de 2 ejes,2 Arados de disco,2 subsolador,1 Rastra,1 casa de madera y 1 de material",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/8/I.jpg",
+      "./../../../../assets/biodiversity/8/II.jpg",
+      "./../../../../assets/biodiversity/8/III.jpg",
+      "./../../../../assets/biodiversity/8/IV.jpg",
+      "./../../../../assets/biodiversity/8/V.jpg",
+      "./../../../../assets/biodiversity/8/VI.jpg",
+      "./../../../../assets/biodiversity/8/VII.jpg",
+      "./../../../../assets/biodiversity/8/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1467,
+    "title": "Finca En Valle De Uco Mendoza",
+    "area": "7000 has",
+    "super": "7000 has",
+    "location": "Ruta 89 Valle De Uco Mendoza, Tupungato, Tupungato, Mendoza",
+    "price":  31000000,
+    "page": 1,
+    "desc": "Se Vende Viñedo funcionando con 298 ha de Viñedos de direrentes tipos. Todos pies de origen frances. en producción. 3 pozos perforados. intalaciones completas. Casa principal, Maquinaria, cosechadora. Todo funcionando.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/9/I.jpg",
+      "./../../../../assets/biodiversity/9/II.jpg",
+      "./../../../../assets/biodiversity/9/III.jpg",
+      "./../../../../assets/biodiversity/9/IV.jpg",
+      "./../../../../assets/biodiversity/9/V.jpg",
+      "./../../../../assets/biodiversity/9/VI.jpg",
+      "./../../../../assets/biodiversity/9/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1756,
+    "title": "7000 Ha De Campo En Mendoza",
+    "area": "48 has",
+    "super": "48 has",
+    "location": "Ruta 203 Gaspar Campos Mendoza, General Alvear, Mendoza",
+    "price": 3.800000,
+    "page": 1,
+    "desc": "Campo Ganadero de 7000 ha Trabajando. Sobre Rio Diamanten en Gaspar Campos sobre ruta 203",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/10/I.jpg",
+      "./../../../../assets/biodiversity/10/II.jpg",
+      "./../../../../assets/biodiversity/10/III.jpg",
+      "./../../../../assets/biodiversity/10/IV.jpg",
+      "./../../../../assets/biodiversity/10/V.jpg",
+      "./../../../../assets/biodiversity/10/VI.jpg",
+      "./../../../../assets/biodiversity/10/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1887,
+    "title": " Chacra De 48 Ha En Apostoles Misiones",
+    "area": "48 has",
+    "super": "48 has",
+    "location": "Ruta 105 Al 9, Apóstoles, Misiones",
+    "price": 330000,
+    "page": 1,
+    "desc": "Chacra de 48 ha con arroyo, En su mayoría con tierra colorada.Tiene 28 ha de yerba mate que salen unos 90.000 kilograms hoja verde de yerba mate",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/11/I.jpg",
+      "./../../../../assets/biodiversity/11/II.jpg",
+      "./../../../../assets/biodiversity/11/III.jpg",
+      "./../../../../assets/biodiversity/11/IV.jpg",
+      "./../../../../assets/biodiversity/11/V.jpg",
+      "./../../../../assets/biodiversity/11/VI.jpg",
+      "./../../../../assets/biodiversity/11/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1287,
+    "title": "Quinta De 5ha Con Arroyo En Santa Ana,",
+    "area": "48 has",
+    "super": "48 has",
+    "location": "Santa Ana, Misiones, Puerto Santa Ana, Candelaria, Misiones",
+    "price": 40000,
+    "page": 1,
+    "desc": "Se Vende Quinta de 5ha con Arroyo en Santa Ana, Misiones.Esta ubicada a cuadras de Av. San Martin.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/12/I.jpg",
+      "./../../../../assets/biodiversity/12/II.jpg",
+      "./../../../../assets/biodiversity/12/III.jpg",
+      "./../../../../assets/biodiversity/12/IV.jpg",
+      "./../../../../assets/biodiversity/12/V.jpg",
+      "./../../../../assets/biodiversity/12/VI.jpg",
+      "./../../../../assets/biodiversity/12/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1456,
+    "title": "Campo Foresto-ganadero De 885 Ha En Paraje Galarza",
+    "area": "5 has",
+    "super": "5 has",
+    "location": "Paraje Galarza, Santo Tomé, Corrientes",
+    "price": 1350000,
+    "page": 1,
+    "desc": "Se Vende Campo  de 885 ha en Paraje Galarza, Corrientes. Esta ubicado sobre Ruta Provincial N41, a 71 km de ruta Nacional N12 y a 70 km de Virasoro, Corrientes.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/13/I.jpg",
+      "./../../../../assets/biodiversity/13/II.jpg",
+      "./../../../../assets/biodiversity/13/III.jpg",
+      "./../../../../assets/biodiversity/13/IV.jpg",
+      "./../../../../assets/biodiversity/13/V.jpg",
+      "./../../../../assets/biodiversity/13/VI.jpg",
+      "./../../../../assets/biodiversity/13/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1634,
+    "title": " Campo Ganadero En Mendoza, Rio Diamante",
+    "area": "2644 has",
+    "super": "2644 has",
+    "location": "Corral De Lorca, Monte Comán, San Rafael, Mendoza",
+    "price": 1250000,
+    "page": 1,
+    "desc": "Campo ganadero en venta Funcionando! A muy bajo precio.Se vende campo armado para ganadería, con aguadas y sobre Rio Diamante.Alambrado perimetral, y divisorías en 8 cuadros, casco Principal sobre rio Diamante, caminos internos, pozos de agua dulce australiano, energía eléctrica, mas una casa en Corral de Lorca.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/14/I.jpg",
+      "./../../../../assets/biodiversity/14/II.jpg",
+      "./../../../../assets/biodiversity/14/III.jpg",
+      "./../../../../assets/biodiversity/14/IV.jpg",
+      "./../../../../assets/biodiversity/14/V.jpg",
+      "./../../../../assets/biodiversity/14/VI.jpg",
+      "./../../../../assets/biodiversity/14/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1856,
+    "title": "Terreno En Puerto Iguazú - Misiones",
+    "area": "5000 m2",
+    "super": "5000 m2",
+    "location": "En Venta Terreno En Puerto Iguazú - Misiones, Puerto Iguazú, Iguazú, Misiones",
+    "price": 250000,
+    "page": 1,
+    "desc": "SE VENDE terreno en Puerto Iguazú - Misiones.Ubicado en una zona de emprendimiento hoteleros y cabañas.Especial para inversionistas.Tiene una perforación de agua (Pozo).Acceso a todos los servicios.Título de Propiedad.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/15/I.jpg",
+      "./../../../../assets/biodiversity/15/II.jpg",
+      "./../../../../assets/biodiversity/15/III.jpg",
+      "./../../../../assets/biodiversity/15/IV.jpg",
+      "./../../../../assets/biodiversity/15/V.jpg",
+      "./../../../../assets/biodiversity/15/VI.jpg",
+      "./../../../../assets/biodiversity/15/VII.jpg"
+    ]
+  },
+  {
+    "_id": 13466,
+    "title": "Terreno En 20x40 Frente A La Plaza",
+    "area": "800 m2",
+    "super": "800 m2",
+    "location": "Puerto Mbigua, Ituzaingó, Corrientes",
+    "price": 20000,
+    "page": 1,
+    "desc": "No pierdas la oportunidad de adquirir este impresionante terreno en el codiciado barrio privado de Puerto Mbigua, Corrientes! Con una ubicación privilegiada a solo dos cuadras del río y con vistas a una encantadora plaza, este terreno SB5 de 20x40 (800m^2) es el lugar perfecto para construir la casa de fin de semana de tus sueños.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/16/I.jpg",
+      "./../../../../assets/biodiversity/16/II.jpg",
+      "./../../../../assets/biodiversity/16/III.jpg",
+      "./../../../../assets/biodiversity/16/IV.jpg",
+      "./../../../../assets/biodiversity/16/V.jpg",
+      "./../../../../assets/biodiversity/16/VI.jpg",
+      "./../../../../assets/biodiversity/16/VII.jpg"
+    ]
+  },
+  {
+    "_id": 1346678,
+    "title": "Campo Ganadero Y Forestal A Minutos De Virasoro Corrientes. Ruta 68",
+    "area": "270 ha",
+    "super": "270 ha",
+    "location": "288 Hectáreas En Virasoro, Corrientes., Santo Tomé, Corrientes",
+    "price": 2200,
+    "page": 1,
+    "desc": "En venta impecable campo ganadero sobre ruta 68. Gobernador Valentin Virasoro,Corrientes. Superficie total de 288 hectáreas de las cuales 60 hectáreas son de tierra colorada, y el resto todo campo con una parte mas baja.Precio por hectáreas: 2.200 Dólares.Agedamos una visita? aguardamos su consulta.papeles en perfecto estado al día, listos para transferir.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/17/I.jpg",
+      "./../../../../assets/biodiversity/17/II.jpg",
+      "./../../../../assets/biodiversity/17/III.jpg",
+      "./../../../../assets/biodiversity/17/IV.jpg",
+      "./../../../../assets/biodiversity/17/V.jpg",
+      "./../../../../assets/biodiversity/17/VI.jpg",
+      "./../../../../assets/biodiversity/17/VII.jpg"
+    ]
+  },
+  {
+    "_id": 134896,
+    "title": " Quinta De 1.5 Ha. Sobre Rio Paraná. Santa Tecla. Itu. Corrientes",
+    "area": "1.68 has",
+    "super": "1.68 has",
+    "location": "Santa Tecla, Ituzaingó, Corrientes",
+    "price": 85000,
+    "page": 1,
+    "desc": "Se Vende Quinta de 1.68 ha Sobre Rio Paraná. La misma esta ubicada en Santa Tecla. Ituzaingó Corrientes. A 320 m de la ruta nacional 12.Actualmente cuenta con:1 Cabaña grande. (Interior, madera y mampostería) A refaccionar. 4 dormitorios.2baños.Amplio patio parquizado.Playa Energía Eléctrica.Pozo perforado.",
+    "imgUrls": [
+      "./../../../../assets/biodiversity/18/I.jpg",
+      "./../../../../assets/biodiversity/18/II.jpg",
+      "./../../../../assets/biodiversity/18/III.jpg",
+      "./../../../../assets/biodiversity/18/IV.jpg",
+      "./../../../../assets/biodiversity/18/V.jpg",
+      "./../../../../assets/biodiversity/18/VI.jpg",
+      "./../../../../assets/biodiversity/18/VII.jpg"
+    ]
+  }
+]

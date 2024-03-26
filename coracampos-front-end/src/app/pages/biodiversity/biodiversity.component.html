@@ -1,0 +1,44 @@
+<main id="main">
+  <section class="intro-single">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-lg-8">
+          <div class="title-single-box">
+            <h1 class="title-single">Nuestro compromiso con la biodiversidad</h1>
+            <span class="color-text-a">Incorporamos áreas verdes y hábitats naturales en nuestros
+              proyectos inmobiliarios para proporcionar refugio y
+              alimento a la fauna local.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="property-grid grid">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="grid-option">
+            <form>
+              <select class="custom-select" id="filterProperties" #filterProperties (change)="orderProperties()">
+                <option value="1">Del menor al mayor precio</option>
+                <option value="2">Del mayor al menor precio</option>
+                <option value="3">Por orden alfabético</option>
+              </select>
+            </form>
+          </div>
+        </div>
+        <div class="col-sm-4" *ngFor="let biodiversityCard of cardsBio" [routerLink]="biodiversityCard.url">
+          <app-cards-bio [biodiversityCard]="biodiversityCard"></app-cards-bio>
+        </div>
+      </div>
+      <div class="container text-center">
+        <a [href]="urlMercadoLibre" class="btn btn-warning text-white btn-block pb-2 pt-2" target="_blank"><i
+            class="bi bi-node-plus-fill"></i>
+            Ver + en Mercadolibre <img class="mercadolibre" src="../../../assets/mercadolibre.png" alt=""></a>
+      </div>
+      <div class="d-flex justify-content-center">
+        <img class="mercado" src="../../../assets/merc.jpg" alt="">
+      </div>
+    </div>
+  </section>
+</main>

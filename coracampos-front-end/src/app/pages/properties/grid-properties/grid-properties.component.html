@@ -1,0 +1,20 @@
+<section class="property-grid grid">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="grid-option">
+          <form>
+            <select class="custom-select" id="filterProperties" #filterProperties (change)=" orderProperties()">
+              <option value="1">De menor a mayor precio</option>
+              <option value="2">De mayor a menor precio</option>
+              <option value="3">De orden alfabetico</option>
+            </select>
+          </form>
+        </div>
+      </div>
+      <div class="col-md-4" *ngFor="let property of properties">
+        <app-card-property [property]="property"></app-card-property>
+      </div>
+    </div>
+  </div>
+</section>

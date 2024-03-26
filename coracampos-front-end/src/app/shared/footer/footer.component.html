@@ -1,0 +1,37 @@
+<section class="section-footer bg-dark text-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-6 col-lg-6">
+        <app-contact-details></app-contact-details>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-6 section-md-t3 text-center">
+        <div class="widget-a">
+          <div class="w-header-a">
+            <h4 class="text-brand text-white"><i class="bi bi-map-fill text-success"></i> Mapa del Sitio</h4>
+          </div>
+          <div class="w-body-a ">
+            <div class="w-body-a">
+              <ul class="list-unstyled row mt-3">
+                <app-menu-items class="col-4" *ngFor="let itemMenu of itemsMenu" [itemMenu]="itemMenu"></app-menu-items>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="bg-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="copyright-footer">
+          <p class="copyright color-text-a">
+            <span class="text-success">&copy;</span> {{getYear()}}
+            <span class="color-a">CoráCampos</span> Todos los derechos reservados
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
